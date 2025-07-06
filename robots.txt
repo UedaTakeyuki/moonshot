@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://uedatakeyuki.github.io/moonshot/sitemap.xml
