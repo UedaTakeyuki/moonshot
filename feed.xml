@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>SpaceB is Gooing to the Moon</title>
+    <title>Visiting Space</title>
     <link href="https://uedatakeyuki.github.io/moonshot/feed.xml" rel="self" />
     <link href="https://uedatakeyuki.github.io/moonshot" />
     <updated>2025-07-06T14:45:47+09:00</updated>
@@ -14,15 +14,15 @@
         <author>
             <name>Bob Bobbee</name>
         </author>
-        <link href="https://uedatakeyuki.github.io/moonshot/rocket-engine-development-news/"/>
-        <id>https://uedatakeyuki.github.io/moonshot/rocket-engine-development-news/</id>
+        <link href="https://uedatakeyuki.github.io/moonshot/blog/rocket-engine-development-news/"/>
+        <id>https://uedatakeyuki.github.io/moonshot/blog/rocket-engine-development-news/</id>
         <media:content url="https://uedatakeyuki.github.io/moonshot/media/posts/3/david-torres-Ljz_Wmk7t7g-unsplash.jpg" medium="image" />
 
         <updated>2025-07-06T13:46:05+09:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://uedatakeyuki.github.io/moonshot/media/posts/3/david-torres-Ljz_Wmk7t7g-unsplash.jpg" alt="Rocket Engine Development at SpaceB as we Build Technology to go to the Moon." />
-                    Rocket Science is Hard Decipherment two ghostly white figures in coveralls and&hellip;
+                    Rocket Science is Hard Decipherment two ghostly white figures in coveralls and helmets are softly dancing prime number network of wormholes another world Tunguska event. Shores of the cosmic ocean two ghostly white figures in coveralls and helmets are softly dancing inconspicuous motes of rock&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -42,7 +42,7 @@
   </ul>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://uedatakeyuki.github.io/moonshot/media/posts/3/sean-pierce-NMRvHU8lSHI-unsplash.jpg" height="2789" width="4588" alt="SpaceB rocket engine testing conducted in 2020"  sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-xs.jpg 320w ,https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-sm.jpg 480w ,https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-md.jpg 768w ,https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-xl.jpg 1024w">
+      <img loading="lazy" src="https://uedatakeyuki.github.io/moonshot/media/posts/3/sean-pierce-NMRvHU8lSHI-unsplash.jpg" height="2789" width="4588" alt="SpaceB rocket engine testing conducted in 2020"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-xs.jpg 640w ,https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-sm.jpg 768w ,https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-md.jpg 1024w ,https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-lg.jpg 1366w ,https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-xl.jpg 1600w ,https://uedatakeyuki.github.io/moonshot/media/posts/3/responsive/sean-pierce-NMRvHU8lSHI-unsplash-2xl.jpg 1920w">
       <figcaption>SpaceB rocket engine testing conducted in 2020</figcaption>
     </figure>
 
@@ -67,8 +67,8 @@
         <author>
             <name>Bob Bobbee</name>
         </author>
-        <link href="https://uedatakeyuki.github.io/moonshot/inspired-by-a-dream/"/>
-        <id>https://uedatakeyuki.github.io/moonshot/inspired-by-a-dream/</id>
+        <link href="https://uedatakeyuki.github.io/moonshot/blog/inspired-by-a-dream/"/>
+        <id>https://uedatakeyuki.github.io/moonshot/blog/inspired-by-a-dream/</id>
         <media:content url="https://uedatakeyuki.github.io/moonshot/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" medium="image" />
             <category term="News"/>
             <category term="Musings"/>
@@ -77,13 +77,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://uedatakeyuki.github.io/moonshot/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" alt="The Moon - it calls to us and inspires us explore" />
-                    In the vast expanse of the dreamscape, where nebulous thoughts orbit the&hellip;
+                    In the vast expanse of the dreamscape, where nebulous thoughts orbit the stars of imagination, a rocket fueled by cosmic ambition sailed past the constellation of Ephemeral Whispers. It transcended the gravitational pull of logic and reason, navigating through the asteroid belt of celestial absurdities.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://uedatakeyuki.github.io/moonshot/media/posts/1/nicolas-thomas-wKlqqfNTLsI-unsplash.jpg" class="type:primaryImage" alt="The Moon - it calls to us and inspires us explore" /></p>
-                <p><span class="EmphasisTypeItalic ">In the vast expanse of the dreamscape, where nebulous thoughts orbit the stars of imagination, a rocket fueled by cosmic ambition sailed past the constellation of Ephemeral Whispers. It transcended the gravitational pull of</span><span class="EmphasisTypeItalic "> logic </span><span class="EmphasisTypeItalic ">and reason, navigating through the asteroid belt of celestial absurdities. Mars hummed a lullaby of quarks, while Saturn'<figure class="post__image"><img loading="lazy"  src="https://uedatakeyuki.github.io/moonshot/media/posts/1/nasa-UeSpvB0Qo88-unsplash.jpg" alt="Buzz Aldrin on the surface of the moon in our inspiration for space flight." width="2700" height="2025" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-xs.jpg 320w ,https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-sm.jpg 480w ,https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-md.jpg 768w ,https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-xl.jpg 1024w"></figure>s rings resonated with the harmony of nebulous dreams and stardust. Somewhere in the ether, a comet whispered secrets to a passing black hole,</span><span class="EmphasisTypeItalic ">which promptly forgot them in a swirl of quantum spaghetti.</span></p>
+                <p><span class="EmphasisTypeItalic ">In the vast expanse of the dreamscape, where nebulous thoughts orbit the stars of imagination, a rocket fueled by cosmic ambition sailed past the constellation of Ephemeral Whispers. It transcended the gravitational pull of</span><span class="EmphasisTypeItalic "> logic </span><span class="EmphasisTypeItalic ">and reason, navigating through the asteroid belt of celestial absurdities. Mars hummed a lullaby of quarks, while Saturn'<figure class="post__image"><img loading="lazy"  src="https://uedatakeyuki.github.io/moonshot/media/posts/1/nasa-UeSpvB0Qo88-unsplash.jpg" alt="Buzz Aldrin on the surface of the moon in our inspiration for space flight." width="2700" height="2025" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-xs.jpg 640w ,https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-sm.jpg 768w ,https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-md.jpg 1024w ,https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-lg.jpg 1366w ,https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-xl.jpg 1600w ,https://uedatakeyuki.github.io/moonshot/media/posts/1/responsive/nasa-UeSpvB0Qo88-unsplash-2xl.jpg 1920w"></figure>s rings resonated with the harmony of nebulous dreams and stardust. Somewhere in the ether, a comet whispered secrets to a passing black hole,</span><span class="EmphasisTypeItalic ">which promptly forgot them in a swirl of quantum spaghetti.</span></p>
 <p id="Par39" class="Para ParaOneEmphasisChild"><span class="EmphasisTypeItalic ">As the spacecraft drifted through the vacuum of celestial nonsense, the crew pondered the intricacies of zero-gravity cheese and the complexities of lunar lasagna. The onboard computer, aptly named Nebulon-42, calculated the trajectory toward the planet of Infinite Inspiration but instead rerouted to the Galaxy of Eternal Daydreams. The solar winds carried whispers of forgotten starships and meteors filled with interstellar confetti. A nearby pulsar flickered a morse code message that read, “All dreams are made of cosmic waffles.”</span></p>
 <p id="Par40" class="Para"><span class="EmphasisFontCategoryNonProportional ">—</span>ChatGPT</p>
 <p>Here is the list of Apollo landings I will add to my post:</p>
